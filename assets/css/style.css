@@ -10,7 +10,11 @@
     font-family: 'Lato', sans-serif;
 }
 body {
+<<<<<<< HEAD
 	background: #809691;
+=======
+	background-color:#7FDBFF;
+>>>>>>> 347ddb417f0e31c767d53561e384775b1061d68e
 	margin: 0;
 	color: #fff;
 }
@@ -63,7 +67,7 @@ body {
 ::-moz-selection  {
 	color: #fff;
 	text-shadow:none;
-	background:#2B2E31;
+	background:#7FDBFF;
 }
 ::selection {
 	color: #fff;
