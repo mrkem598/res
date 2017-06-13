@@ -10,7 +10,7 @@
     font-family: 'Lato', sans-serif;
 }
 body {
-	background-color: #7FDBFF;
+	background-color:#7FDBFF;
 	margin: 0;
 	color: #fff;
 }
@@ -63,7 +63,7 @@ body {
 ::-moz-selection  {
 	color: #fff;
 	text-shadow:none;
-	background:#2B2E31;
+	background:#7FDBFF;
 }
 ::selection {
 	color: #fff;
