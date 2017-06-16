@@ -9,7 +9,7 @@
 	padding: 0px;
     font-family: 'Lato', sans-serif;
 }
-div {
+body {
     width: 100px;
     height: 100px;
     background-color: blue;
