@@ -1,5 +1,5 @@
 /* Import fonts */
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700,900);
 
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
@@ -14,12 +14,7 @@ body { background-color: #809691;
 
 	margin: 0;
 	color: #fff;
-	 -webkit-animation-name: background;
-    -webkit-animation-duration: 4s;
-    animation-name: background;
-    animation-duration: 6s;
-	from {background-color: red;}
-    to {background-color: yellow;}
+	 
 } 
 
 h1, h2, h3, h4, h5, h6 {
