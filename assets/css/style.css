@@ -9,28 +9,18 @@
 	padding: 0px;
     font-family: 'Lato', sans-serif;
 }
-body {
-    width: auto;
-    height: auto;
-    background-color: blue;
-    -webkit-animation-name: background;
-    -webkit-animation-duration: 4s;
-    animation-name: background;
-    animation-duration: 6s;
-}
 
-
-@-webkit-keyframes  background{
-    from {background-color: red;}
-    to {background-color: yellow;}
-}
-
-
-/* body { background-color: #809691;
+body { background-color: #809691;
 
 	margin: 0;
 	color: #fff;
-} */
+	 -webkit-animation-name: background;
+    -webkit-animation-duration: 4s;
+    animation-name: background;
+    animation-duration: 6s;
+	from {background-color: red;}
+    to {background-color: yellow;}
+} 
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', sans-serif;
