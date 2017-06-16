@@ -10,8 +10,8 @@
     font-family: 'Lato', sans-serif;
 }
 body {
-    width: 100px;
-    height: 100px;
+    width: auto;
+    height: auto;
     background-color: blue;
     -webkit-animation-name: background;
     -webkit-animation-duration: 4s;
@@ -26,11 +26,11 @@ body {
 }
 
 
-body { background-color: #809691;
+/* body { background-color: #809691;
 
 	margin: 0;
 	color: #fff;
-}
+} */
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', sans-serif;
