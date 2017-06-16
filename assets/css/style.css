@@ -9,6 +9,23 @@
 	padding: 0px;
     font-family: 'Lato', sans-serif;
 }
+div {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    -webkit-animation-name: background;
+    -webkit-animation-duration: 4s;
+    animation-name: background;
+    animation-duration: 6s;
+}
+
+
+@-webkit-keyframes  background{
+    from {background-color: red;}
+    to {background-color: yellow;}
+}
+
+
 body { background-color: #809691;
 
 	margin: 0;
